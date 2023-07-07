@@ -1,6 +1,6 @@
-### Hi there 👋 !
+### Hi there 👋 
 
-Hi! My name is Abrielle Chan and I'm a 3rd year studying Computer Science. 
+Hi! My name is Abrielle Chan and I'm a 3rd year studying Computer Science!
 
 **what i'm up to now:**
 > tba
