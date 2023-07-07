@@ -5,7 +5,7 @@ Hi! My name is Abrielle Chan and I'm a 3rd year studying Computer Science.
 **what i'm up to now:**
 > tba
 
-**what i'm currently learning**
+**what i'm currently learning:**
 > taking a course on algoritm design and analysis
 
 > Relational Databases (SQL, PHP)
