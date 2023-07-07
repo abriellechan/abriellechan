@@ -1,6 +1,6 @@
-### Hi there 👋 
+### Hi there 👋 ! I'm Abrielle Chan
 
-Hi! My name is Abrielle Chan and I'm a 3rd year studying Computer Science!
+Hi! I'm a 3rd year studying Computer Science at UBC, with a minor in Visual Arts!
 
 **what i'm up to now:**
 > tba
@@ -9,6 +9,9 @@ Hi! My name is Abrielle Chan and I'm a 3rd year studying Computer Science!
 > taking a course on algoritm design and analysis
 
 > Relational Databases (SQL, PHP)
+
+**in the future?:**
+> interested in Game Development, Artificial Intelligence and Software Development!
 
 **other ways to reach me!**
 > tba
