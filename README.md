@@ -3,12 +3,10 @@
 Hi! I'm a 3rd year studying Computer Science at UBC, with a minor in Visual Arts!
 
 **what i'm up to now:**
-> tba
+> currently interning at Engineers and Geoscientists BC! 
 
 **what i'm currently learning:**
-> taking a course on algoritm design and analysis
-
-> Relational Databases (SQL, PHP)
+> React!
 
 **in the future?:**
 > interested in Game Development, Artificial Intelligence and Software Development!
