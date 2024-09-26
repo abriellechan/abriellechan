@@ -3,18 +3,16 @@
 Hi! I'm a 3rd year studying Computer Science at UBC, with a minor in Visual Arts!
 
 **what i'm up to now:**
-> currently interning at Engineers and Geoscientists BC! 
+> finished up an intern position at Engineers and Geoscientists BC, and now have returned to school :)
 
 **what i'm currently learning:**
-> React!
+> WebGL, Computer Graphics and more Software Design
 
 **in the future?:**
-> interested in Game Development, Artificial Intelligence and Software Development!
+> interested in Game Development, Software Development and Artificial Intelligence!
 
 **other ways to reach me!**
 > tba
-
-
 
 
 
